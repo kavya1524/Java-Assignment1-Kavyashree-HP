@@ -8,7 +8,7 @@ public class numbers {
     {
         if(num <= 100)
         {
-            System.out.print(num +" ");
+            System.out.println(num +" ");
             printNumbers(num + 1);
         }
     }
